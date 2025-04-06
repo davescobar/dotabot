@@ -1,0 +1,1097 @@
+{
+  "total_items": 536,
+  "field_counts": {
+    "id": 536,
+    "name": 536,
+    "name_loc": 536,
+    "desc_loc": 536,
+    "lore_loc": 536,
+    "notes_loc": 536,
+    "shard_loc": 536,
+    "scepter_loc": 536,
+    "facets_loc": 536,
+    "type": 536,
+    "behavior": 536,
+    "target_team": 536,
+    "target_type": 536,
+    "flags": 536,
+    "damage": 536,
+    "immunity": 536,
+    "dispellable": 536,
+    "max_level": 536,
+    "cast_ranges": 536,
+    "cast_points": 536,
+    "channel_times": 536,
+    "cooldowns": 536,
+    "durations": 536,
+    "damages": 536,
+    "mana_costs": 536,
+    "gold_costs": 536,
+    "health_costs": 536,
+    "special_values": 536,
+    "is_item": 536,
+    "ability_has_scepter": 536,
+    "ability_has_shard": 536,
+    "ability_is_granted_by_scepter": 536,
+    "ability_is_granted_by_shard": 536,
+    "ability_is_innate": 536,
+    "item_cost": 536,
+    "item_initial_charges": 536,
+    "item_neutral_tier": 536,
+    "item_stock_max": 536,
+    "item_stock_time": 536,
+    "item_quality": 536
+  },
+  "field_types": {
+    "id": [
+      "int"
+    ],
+    "name": [
+      "str"
+    ],
+    "name_loc": [
+      "str"
+    ],
+    "desc_loc": [
+      "str"
+    ],
+    "lore_loc": [
+      "str"
+    ],
+    "notes_loc": [
+      "list"
+    ],
+    "shard_loc": [
+      "str"
+    ],
+    "scepter_loc": [
+      "str"
+    ],
+    "facets_loc": [
+      "list"
+    ],
+    "type": [
+      "int"
+    ],
+    "behavior": [
+      "str"
+    ],
+    "target_team": [
+      "int"
+    ],
+    "target_type": [
+      "int"
+    ],
+    "flags": [
+      "int"
+    ],
+    "damage": [
+      "int"
+    ],
+    "immunity": [
+      "int"
+    ],
+    "dispellable": [
+      "int"
+    ],
+    "max_level": [
+      "int"
+    ],
+    "cast_ranges": [
+      "list"
+    ],
+    "cast_points": [
+      "list"
+    ],
+    "channel_times": [
+      "list"
+    ],
+    "cooldowns": [
+      "list"
+    ],
+    "durations": [
+      "list"
+    ],
+    "damages": [
+      "list"
+    ],
+    "mana_costs": [
+      "list"
+    ],
+    "gold_costs": [
+      "list"
+    ],
+    "health_costs": [
+      "list"
+    ],
+    "special_values": [
+      "list"
+    ],
+    "is_item": [
+      "bool"
+    ],
+    "ability_has_scepter": [
+      "bool"
+    ],
+    "ability_has_shard": [
+      "bool"
+    ],
+    "ability_is_granted_by_scepter": [
+      "bool"
+    ],
+    "ability_is_granted_by_shard": [
+      "bool"
+    ],
+    "ability_is_innate": [
+      "bool"
+    ],
+    "item_cost": [
+      "int"
+    ],
+    "item_initial_charges": [
+      "int"
+    ],
+    "item_neutral_tier": [
+      "int"
+    ],
+    "item_stock_max": [
+      "int"
+    ],
+    "item_stock_time": [
+      "int"
+    ],
+    "item_quality": [
+      "int"
+    ]
+  },
+  "top_values": {
+    "id": [
+      [
+        1,
+        1
+      ],
+      [
+        600,
+        1
+      ],
+      [
+        603,
+        1
+      ],
+      [
+        604,
+        1
+      ],
+      [
+        606,
+        1
+      ],
+      [
+        607,
+        1
+      ],
+      [
+        608,
+        1
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "name": [
+      [
+        "item_blink",
+        1
+      ],
+      [
+        "item_overwhelming_blink",
+        1
+      ],
+      [
+        "item_swift_blink",
+        1
+      ],
+      [
+        "item_arcane_blink",
+        1
+      ],
+      [
+        "item_recipe_arcane_blink",
+        1
+      ],
+      [
+        "item_recipe_swift_blink",
+        1
+      ],
+      [
+        "item_recipe_overwhelming_blink",
+        1
+      ],
+      [
+        "item_blades_of_attack",
+        1
+      ],
+      [
+        "item_broadsword",
+        1
+      ],
+      [
+        "item_chainmail",
+        1
+      ]
+    ],
+    "name_loc": [
+      [
+        "",
+        38
+      ],
+      [
+        "Dagon",
+        5
+      ],
+      [
+        "Necronomicon",
+        3
+      ],
+      [
+        "Blink Dagger",
+        1
+      ],
+      [
+        "Overwhelming Blink",
+        1
+      ],
+      [
+        "Swift Blink",
+        1
+      ],
+      [
+        "Arcane Blink",
+        1
+      ],
+      [
+        "Arcane Blink Recipe",
+        1
+      ],
+      [
+        "Swift Blink Recipe",
+        1
+      ],
+      [
+        "Overwhelming Blink Recipe",
+        1
+      ]
+    ],
+    "desc_loc": [
+      [
+        "",
+        242
+      ],
+      [
+        "<h1>Active: Energy Burst</h1> Emits a powerful burst of magical damage upon a targeted enemy unit. Heals the caster %dagon_spell_lifesteal%%% of damage dealt by Dagon. Upgradable.<br><br>Damage: %damage%<br> Mana Cost: %mana_cost_tooltip%",
+        4
+      ],
+      [
+        "<h1>Use: Eat Lotus</h1> Instantly restores %replenish_amount% health and mana.",
+        3
+      ],
+      [
+        "<h1>Active: Demonic Summoning</h1>Summons a Warrior and an Archer to fight for you for %summon_duration% seconds.<br><br><h1>Warrior:</h1>Burns mana every hit, and deals magical damage to whoever kills it.  Gains True Sight at level 3.<br>Health: %warrior_health_tooltip%<br>Damage: %warrior_damage_tooltip%<br>Mana Break Damage: %warrior_mana_break_tooltip%<br>Last Will Damage: %explosion%<br><br><h1>Archer:</h1>Has a passive movement and attack speed aura. Gains Purge at Level 3.<br>Health: %archer_health_tooltip%<br>Damage: %archer_damage_tooltip%<br>Aura Move Speed: %archer_move_speed%<br>Aura Radius: %archer_aura_radius_tooltip%",
+        3
+      ],
+      [
+        "<h1>Passive: Ability Upgrade</h1>Upgrades the ultimate, and some abilities, of all heroes.",
+        3
+      ],
+      [
+        "<h1>Passive: Cooldown Reduction</h1>Reduces the cooldown time of all spells and items.",
+        3
+      ],
+      [
+        "<h1>Passive: Pierce</h1>Grants each attack a %bonus_chance%%% chance to pierce through evasion and deal %bonus_chance_damage% bonus magical damage.",
+        2
+      ],
+      [
+        "<h1>Use: Imbue</h1> Instantly restores %hp_restore% health.",
+        2
+      ],
+      [
+        "<h1>Use: Plant Tree</h1> Targets the ground to plant a happy little tree that lasts for %tree_duration% seconds.",
+        2
+      ],
+      [
+        "<h1>Passive: Ability Upgrade</h1>Upgrades an existing ability or adds a new ability to your hero.",
+        2
+      ]
+    ],
+    "lore_loc": [
+      [
+        "",
+        265
+      ],
+      [
+        "A lesser wand that grows in power the longer it is used, it brings magic to the fingertips of the user.",
+        5
+      ],
+      [
+        "Considered the ultimate in necromancy and demonology, a powerful malefic force is locked within its pages.",
+        3
+      ],
+      [
+        "The scepter of a wizard with demigod-like powers.",
+        3
+      ],
+      [
+        "The fabled dagger used by the fastest assassin ever to walk the lands.",
+        2
+      ],
+      [
+        "A simple wand used to channel magic energies, it is favored by apprentice wizards and great warlocks alike.",
+        2
+      ],
+      [
+        "Winged boots that grant omnipresence.",
+        2
+      ],
+      [
+        "An enchanted hammer forged of metals discovered in the ruins of a village destroyed by a great star storm.",
+        2
+      ],
+      [
+        "With origins known only to a single wizard, fragments of this impossible crystal are nearly as coveted as the renowned scepter itself.",
+        2
+      ],
+      [
+        "The powerful headpiece of a dead necromancer.",
+        2
+      ]
+    ],
+    "notes_loc": [
+      [
+        "<empty>",
+        436
+      ],
+      [
+        "Does not trigger spell block or spell reflect.",
+        7
+      ],
+      [
+        "Multiple sources of damage block do not stack.",
+        5
+      ],
+      [
+        "Instantly kills illusions.",
+        5
+      ],
+      [
+        "Self-casting will cause you to teleport in the direction of your team's fountain.",
+        4
+      ],
+      [
+        "Hold Control to use on a nearby allied hero.",
+        4
+      ],
+      [
+        "Stacks multiplicatively with other sources of spell resistance.",
+        2
+      ],
+      [
+        "Stacks diminishingly with other sources of Evasion.",
+        2
+      ],
+      [
+        "Gains charges for spells cast by visible enemies in 1200 range.",
+        2
+      ],
+      [
+        "Certain abilities and item abilities will not add charges.",
+        2
+      ]
+    ],
+    "shard_loc": [
+      [
+        "",
+        535
+      ],
+      [
+        "<h1>Use: Reset Cooldowns</h1>Resets the cooldowns of all your items and abilities. Shares a cooldown with Refresher Orb. This item's cooldown only progresses in your hero's main inventory.",
+        1
+      ]
+    ],
+    "scepter_loc": [
+      [
+        "",
+        536
+      ]
+    ],
+    "facets_loc": [
+      [
+        "<empty>",
+        536
+      ]
+    ],
+    "type": [
+      [
+        0,
+        536
+      ]
+    ],
+    "behavior": [
+      [
+        "2",
+        203
+      ],
+      [
+        "0",
+        130
+      ],
+      [
+        "2052",
+        46
+      ],
+      [
+        "8",
+        30
+      ],
+      [
+        "16",
+        14
+      ],
+      [
+        "4",
+        12
+      ],
+      [
+        "4196356",
+        11
+      ],
+      [
+        "33554440",
+        10
+      ],
+      [
+        "34393294856",
+        7
+      ],
+      [
+        "2056",
+        6
+      ]
+    ],
+    "target_team": [
+      [
+        0,
+        448
+      ],
+      [
+        1,
+        38
+      ],
+      [
+        2,
+        30
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        6,
+        1
+      ]
+    ],
+    "target_type": [
+      [
+        0,
+        448
+      ],
+      [
+        19,
+        35
+      ],
+      [
+        1,
+        29
+      ],
+      [
+        192,
+        5
+      ],
+      [
+        147,
+        4
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        128,
+        3
+      ],
+      [
+        129,
+        1
+      ]
+    ],
+    "flags": [
+      [
+        0,
+        522
+      ],
+      [
+        64,
+        4
+      ],
+      [
+        131072,
+        3
+      ],
+      [
+        528,
+        2
+      ],
+      [
+        16,
+        2
+      ],
+      [
+        262208,
+        1
+      ],
+      [
+        80,
+        1
+      ],
+      [
+        1048576,
+        1
+      ]
+    ],
+    "damage": [
+      [
+        0,
+        523
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        1,
+        3
+      ]
+    ],
+    "immunity": [
+      [
+        0,
+        518
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        3,
+        7
+      ]
+    ],
+    "dispellable": [
+      [
+        0,
+        493
+      ],
+      [
+        2,
+        37
+      ],
+      [
+        1,
+        4
+      ],
+      [
+        3,
+        2
+      ]
+    ],
+    "max_level": [
+      [
+        0,
+        525
+      ],
+      [
+        5,
+        5
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        3,
+        3
+      ]
+    ],
+    "cast_ranges": [
+      [
+        0,
+        414
+      ],
+      [
+        1200,
+        18
+      ],
+      [
+        900,
+        13
+      ],
+      [
+        600,
+        13
+      ],
+      [
+        700,
+        12
+      ],
+      [
+        800,
+        10
+      ],
+      [
+        750,
+        9
+      ],
+      [
+        350,
+        8
+      ],
+      [
+        500,
+        8
+      ],
+      [
+        200,
+        8
+      ]
+    ],
+    "cast_points": [
+      [
+        0,
+        528
+      ],
+      [
+        "<class 'list'>",
+        8
+      ]
+    ],
+    "channel_times": [
+      [
+        0,
+        531
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        "<class 'list'>",
+        1
+      ],
+      [
+        2,
+        1
+      ]
+    ],
+    "cooldowns": [
+      [
+        0,
+        352
+      ],
+      [
+        15,
+        20
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        20,
+        11
+      ],
+      [
+        18,
+        11
+      ],
+      [
+        40,
+        10
+      ],
+      [
+        30,
+        10
+      ],
+      [
+        60,
+        10
+      ],
+      [
+        25,
+        9
+      ],
+      [
+        5,
+        8
+      ]
+    ],
+    "durations": [
+      [
+        0,
+        534
+      ],
+      [
+        25,
+        1
+      ],
+      [
+        20,
+        1
+      ]
+    ],
+    "damages": [
+      [
+        0,
+        2135
+      ]
+    ],
+    "mana_costs": [
+      [
+        0,
+        477
+      ],
+      [
+        75,
+        14
+      ],
+      [
+        100,
+        9
+      ],
+      [
+        50,
+        8
+      ],
+      [
+        160,
+        7
+      ],
+      [
+        150,
+        6
+      ],
+      [
+        200,
+        6
+      ],
+      [
+        25,
+        6
+      ],
+      [
+        120,
+        5
+      ],
+      [
+        140,
+        5
+      ]
+    ],
+    "gold_costs": [
+      [
+        "<empty>",
+        536
+      ]
+    ],
+    "health_costs": [
+      [
+        "<empty>",
+        534
+      ],
+      [
+        75,
+        1
+      ],
+      [
+        170,
+        1
+      ]
+    ],
+    "special_values": [
+      [
+        "<class 'list'>",
+        394
+      ],
+      [
+        "<empty>",
+        142
+      ]
+    ],
+    "is_item": [
+      [
+        true,
+        536
+      ]
+    ],
+    "ability_has_scepter": [
+      [
+        false,
+        536
+      ]
+    ],
+    "ability_has_shard": [
+      [
+        false,
+        536
+      ]
+    ],
+    "ability_is_granted_by_scepter": [
+      [
+        false,
+        536
+      ]
+    ],
+    "ability_is_granted_by_shard": [
+      [
+        false,
+        536
+      ]
+    ],
+    "ability_is_innate": [
+      [
+        false,
+        536
+      ]
+    ],
+    "item_cost": [
+      [
+        0,
+        244
+      ],
+      [
+        1000,
+        13
+      ],
+      [
+        450,
+        11
+      ],
+      [
+        250,
+        11
+      ],
+      [
+        1400,
+        8
+      ],
+      [
+        900,
+        7
+      ],
+      [
+        50,
+        7
+      ],
+      [
+        600,
+        6
+      ],
+      [
+        100,
+        5
+      ],
+      [
+        2800,
+        5
+      ]
+    ],
+    "item_initial_charges": [
+      [
+        0,
+        497
+      ],
+      [
+        1,
+        25
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        750,
+        2
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        4,
+        1
+      ]
+    ],
+    "item_neutral_tier": [
+      [
+        4294967295,
+        502
+      ],
+      [
+        4,
+        8
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        2,
+        6
+      ]
+    ],
+    "item_stock_max": [
+      [
+        0,
+        515
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        3,
+        3
+      ],
+      [
+        8,
+        2
+      ]
+    ],
+    "item_stock_time": [
+      [
+        0,
+        515
+      ],
+      [
+        900,
+        7
+      ],
+      [
+        120,
+        4
+      ],
+      [
+        1,
+        3
+      ],
+      [
+        600,
+        2
+      ],
+      [
+        180,
+        1
+      ],
+      [
+        135,
+        1
+      ],
+      [
+        70,
+        1
+      ],
+      [
+        36000,
+        1
+      ],
+      [
+        420,
+        1
+      ]
+    ],
+    "item_quality": [
+      [
+        1,
+        361
+      ],
+      [
+        3,
+        50
+      ],
+      [
+        4,
+        33
+      ],
+      [
+        0,
+        30
+      ],
+      [
+        2,
+        27
+      ],
+      [
+        5,
+        22
+      ],
+      [
+        6,
+        13
+      ]
+    ]
+  }
+}

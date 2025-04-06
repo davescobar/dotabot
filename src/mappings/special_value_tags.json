@@ -1,0 +1,173 @@
+{
+  "AbilityCooldown": [
+    "cooldown"
+  ],
+  "AbilityManaCost": [
+    "mana_cost"
+  ],
+  "AbilityCastPoint": [
+    "cast"
+  ],
+  "AbilityChannelTime": [
+    "channeled"
+  ],
+  "bonus_damage": [
+    "damage"
+  ],
+  "damage": [
+    "damage"
+  ],
+  "bonus_strength": [
+    "stat",
+    "strength"
+  ],
+  "bonus_agility": [
+    "stat",
+    "agility"
+  ],
+  "bonus_intellect": [
+    "stat",
+    "intellect"
+  ],
+  "bonus_all_stats": [
+    "stat"
+  ],
+  "bonus_health": [
+    "health"
+  ],
+  "bonus_mana": [
+    "mana"
+  ],
+  "bonus_health_regen": [
+    "regen",
+    "health_regen"
+  ],
+  "bonus_mana_regen": [
+    "regen",
+    "mana_regen"
+  ],
+  "health_regen": [
+    "regen",
+    "health_regen"
+  ],
+  "mana_regen": [
+    "regen",
+    "mana_regen"
+  ],
+  "aura_health_regen": [
+    "regen",
+    "health_regen"
+  ],
+  "bonus_movement_speed": [
+    "mobility"
+  ],
+  "movement_speed": [
+    "mobility"
+  ],
+  "movement_speed_percent_bonus": [
+    "mobility"
+  ],
+  "armor": [
+    "defense"
+  ],
+  "bonus_armor": [
+    "defense"
+  ],
+  "status_resistance": [
+    "resistance"
+  ],
+  "magic_resistance": [
+    "resistance"
+  ],
+  "spell_amp": [
+    "spell_amp"
+  ],
+  "spell_lifesteal": [
+    "lifesteal"
+  ],
+  "passive_spell_lifesteal": [
+    "lifesteal"
+  ],
+  "summon_duration": [
+    "summon"
+  ],
+  "blink_range": [
+    "utility",
+    "mobility"
+  ],
+  "slow": [
+    "debuff",
+    "slow"
+  ],
+  "slow_duration": [
+    "debuff",
+    "slow"
+  ],
+  "stun_duration": [
+    "cc",
+    "stun"
+  ],
+  "silence_duration": [
+    "cc",
+    "silence"
+  ],
+  "attack_speed": [
+    "attack_speed"
+  ],
+  "crit_chance": [
+    "crit"
+  ],
+  "crit_multiplier": [
+    "crit"
+  ],
+  "cast_range_bonus": [
+    "utility",
+    "range"
+  ],
+  "active_duration": [
+    "buff"
+  ],
+  "duration": [
+    "buff"
+  ],
+  "radius": [
+    "area"
+  ],
+  "aura_radius": [
+    "area"
+  ],
+  "barrier_block": [
+    "shield"
+  ],
+  "barrier_duration": [
+    "shield"
+  ],
+  "bonus_spell_amp": [
+    "spell_amp"
+  ],
+  "damage_block": [
+    "defense"
+  ],
+  "AbilityCastRange": [
+    "range"
+  ],
+  "hp_regen": [
+    "regen",
+    "health_regen"
+  ],
+  "hp_regen_amp": [
+    "regen"
+  ],
+  "mana_restore": [
+    "mana"
+  ],
+  "health_restore": [
+    "health"
+  ],
+  "bonus_spell_damage": [
+    "damage"
+  ],
+  "bonus_attack_speed": [
+    "attack_speed"
+  ]
+}
